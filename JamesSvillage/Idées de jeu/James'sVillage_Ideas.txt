@@ -1,0 +1,10 @@
+Titre {James's village}
+
+Map {Village, LowPoly}
+
+But {Vous êtes un enfant de 12ans, à lâge de 7ans, ses parents sont morts dans léxplosion de leur usine. Il est gardait par son oncle qui le bat.
+     Dans le villlage James est très peut connus. Un jour, un vieux monsieur vient vers James est lui demande de partire à la recherche de 4 pneus qui sont cachés dans le village
+     pour qu'il puisse réparer sa voiture délabrée etc... (missions à suivre...à chaque fin de mission James récupère un objet ou de l'argent), une fois toutes les missions terminées demandées par les villageois et après avoir rélisé de bonnes actions, 
+     James devient connus de tout le monde dans le village...}
+
+Fin de l'histoire {}
