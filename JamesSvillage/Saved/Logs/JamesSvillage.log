@@ -1,0 +1,871 @@
+﻿Log file open, 07/09/20 10:35:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JamesSvillage
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.100528
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 3 1200 Quad-Core Processor           , GPU: Radeon RX 570 Series
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=Symbiose_num_570 -epicuserid=9c5d4563533741428466834340ea3d09 -epiclocale=fr
+LogInit: Base Directory: D:/Unreal Engine 4.23.1/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.09-08.35.38:349][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.09-08.35.38:349][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.09-08.35.38:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Engine.ini]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Engine.ini]
+[2020.07.09-08.35.38:350][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Engine.ini]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Engine.ini]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.09-08.35.38:350][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Engine.ini]
+[2020.07.09-08.35.38:350][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Engine.ini]
+[2020.07.09-08.35.38:355][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.09-08.35.38:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.09-08.35.38:356][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.09-08.35.38:357][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.09-08.35.38:357][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.09-08.35.38:360][  0]LogHAL: Display: Platform has ~ 8 GB [8521285632 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.09-08.35.38:360][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.09-08.35.38:361][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.09-08.35.38:361][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Scalability.ini]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.09-08.35.38:362][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Config/Windows/Engine.ini]
+[2020.07.09-08.35.38:362][  0]LogInit: Computer: DESKTOP-4H4TTNE
+[2020.07.09-08.35.38:362][  0]LogInit: User: Livio
+[2020.07.09-08.35.38:362][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.09-08.35.38:362][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.09-08.35.38:363][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.07.09-08.35.38:363][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.09-08.35.38:363][  0]LogMemory: Process Physical Memory: 99.97 MB used, 99.98 MB peak
+[2020.07.09-08.35.38:363][  0]LogMemory: Process Virtual Memory: 98.60 MB used, 98.60 MB peak
+[2020.07.09-08.35.38:363][  0]LogMemory: Physical Memory: 4764.63 MB used,  3361.90 MB free, 8126.53 MB total
+[2020.07.09-08.35.38:363][  0]LogMemory: Virtual Memory: 4654.03 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.07.09-08.35.38:366][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.09-08.35.38:391][  0]LogInit: Using OS detected language (fr-FR).
+[2020.07.09-08.35.38:391][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.07.09-08.35.38:391][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.07.09-08.35.38:392][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.07.09-08.35.38:392][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.07.09-08.35.38:392][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.07.09-08.35.38:392][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.07.09-08.35.38:392][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.07.09-08.35.38:392][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.07.09-08.35.38:392][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.07.09-08.35.38:393][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.09-08.35.38:440][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.09-08.35.38:440][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.09-08.35.38:645][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.09-08.35.38:645][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.09-08.35.38:696][  0]LogD3D11RHI:    0. 'Radeon RX 570 Series' (Feature Level 11_0)
+[2020.07.09-08.35.38:696][  0]LogD3D11RHI:       8171/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.07.09-08.35.38:699][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.09-08.35.38:699][  0]LogD3D11RHI:       0/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.09-08.35.38:699][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.09-08.35.38:708][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.09-08.35.38:708][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2020.07.09-08.35.38:708][  0]LogWindows: EnumDisplayDevices:
+[2020.07.09-08.35.38:708][  0]LogWindows:    0. 'Radeon RX 570 Series' (P:1 D:1)
+[2020.07.09-08.35.38:708][  0]LogWindows:    1. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.07.09-08.35.38:709][  0]LogWindows:    2. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.07.09-08.35.38:709][  0]LogWindows:    3. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.07.09-08.35.38:710][  0]LogWindows:    4. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.07.09-08.35.38:710][  0]LogWindows:    5. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.07.09-08.35.38:710][  0]LogWindows:    6. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.07.09-08.35.38:711][  0]LogWindows:    7. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.07.09-08.35.38:711][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.07.09-08.35.38:711][  0]LogD3D11RHI:     Adapter Name: Radeon RX 570 Series
+[2020.07.09-08.35.38:711][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.5.1 (internal:27.20.1017.1011, unified:27.20.1017.1011)
+[2020.07.09-08.35.38:711][  0]LogD3D11RHI:      Driver Date: 5-25-2020
+[2020.07.09-08.35.38:711][  0]LogRHI: Texture pool is 5720 MB (70% of 8171 MB)
+[2020.07.09-08.35.38:787][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.09-08.35.38:801][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.07.09-08.35.38:802][  0]LogD3D11RHI: HDR output is supported on display 0 (AMD Device: 0x0, Display: 0x0).
+[2020.07.09-08.35.39:162][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.07.09-08.35.39:175][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.07.09-08.35.39:188][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.07.09-08.35.39:200][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.07.09-08.35.39:212][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.07.09-08.35.39:224][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.07.09-08.35.39:236][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.09-08.35.39:248][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.07.09-08.35.39:255][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.07.09-08.35.39:297][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.07.09-08.35.39:299][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.07.09-08.35.39:322][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.07.09-08.35.39:322][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.07.09-08.35.39:340][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.07.09-08.35.39:340][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.07.09-08.35.39:349][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.07.09-08.35.39:360][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.09-08.35.39:370][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.07.09-08.35.39:380][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.07.09-08.35.39:414][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.07.09-08.35.39:414][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.07.09-08.35.39:414][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.09-08.35.39:428][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.09-08.35.39:503][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Intermediate/Shaders/WorkingDirectory/3820/).
+[2020.07.09-08.35.39:503][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PC livio/AppData/Local/Temp/UnrealShaderWorkingDir/484B60774933A08D926F9583EA192B61/'.
+[2020.07.09-08.35.39:507][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.09-08.35.39:507][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.09-08.35.39:507][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.09-08.35.40:300][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.09-08.35.40:357][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/PC livio/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.07.09-08.35.40:357][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PC livio/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.07.09-08.35.40:357][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.09-08.35.40:357][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.09-08.35.40:357][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.09-08.35.40:357][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.09-08.35.40:372][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.09-08.35.40:372][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.09-08.35.40:372][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.09-08.35.40:374][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PC livio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.09-08.35.40:374][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.09-08.35.40:374][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.09-08.35.40:403][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.09-08.35.40:407][  0]LogSlate: Using FreeType 2.6.0
+[2020.07.09-08.35.40:408][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.09-08.35.40:475][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2020.07.09-08.35.40:818][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.09-08.35.41:008][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.09-08.35.41:008][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.09-08.35.41:008][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.09-08.35.41:008][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.09-08.35.41:008][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.09-08.35.41:021][  0]LogNetVersion: JamesSvillage 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3278238334)
+[2020.07.09-08.35.41:576][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.063430 seconds
+[2020.07.09-08.35.41:586][  0]LogUObjectArray: 43445 objects as part of root set at end of initial load.
+[2020.07.09-08.35.41:586][  0]LogUObjectAllocator: 7548872 out of 0 bytes used by permanent object pool.
+[2020.07.09-08.35.41:586][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.09-08.35.42:646][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.09-08.35.42:691][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.09-08.35.42:763][  0]SourceControl: Source control is disabled
+[2020.07.09-08.35.42:763][  0]SourceControl: Source control is disabled
+[2020.07.09-08.35.42:765][  0]SourceControl: Source control is disabled
+[2020.07.09-08.35.42:767][  0]SourceControl: Source control is disabled
+[2020.07.09-08.35.42:882][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.09-08.35.43:252][  0]LogOcInput: OculusInput pre-init called
+[2020.07.09-08.35.43:260][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.09-08.35.43:260][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.09-08.35.43:352][  0]LogEngine: Initializing Engine...
+[2020.07.09-08.35.43:353][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.09-08.35.43:354][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.09-08.35.43:642][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.09-08.35.43:663][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.09-08.35.43:748][  0]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.09-08.35.43:771][  0]LogInit: FAudioDevice initialized.
+[2020.07.09-08.35.43:771][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.09-08.35.43:875][  0]LogDerivedDataCache: Saved boot cache 0.10s 73MB C:/Users/PC livio/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.07.09-08.35.43:884][  0]LogInit: Texture streaming: Enabled
+[2020.07.09-08.35.43:913][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.09-08.35.43:913][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.09-08.35.43:914][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.09-08.35.43:950][  0]LogInit: Transaction tracking system initialized
+[2020.07.09-08.35.43:998][  0]BlueprintLog: New page: Editor Load
+[2020.07.09-08.35.44:154][  0]LocalizationService: Localization service is disabled
+[2020.07.09-08.35.44:536][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/' took 0.00s
+[2020.07.09-08.35.44:536][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.09-08.35.44:536][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.09-08.35.44:793][  0]SourceControl: Source control is disabled
+[2020.07.09-08.35.44:793][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.09-08.35.44:794][  0]LightingResults: New page: Lighting Build
+[2020.07.09-08.35.44:798][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.35.44:798][  0]MapCheck: New page: Map Check
+[2020.07.09-08.35.44:798][  0]LightingResults: New page: Lighting Build
+[2020.07.09-08.35.44:831][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.07.09-08.35.44:937][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.07.09-08.35.44:947][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.09-08.35.44:979][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.07.09-08.35.44:979][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.09-08.35.44:979][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,22ms to complete.
+[2020.07.09-08.35.44:979][  0]LogFileHelpers: Loading map 'Template_Default' took 0.186
+[2020.07.09-08.35.45:091][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.35.45:100][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.35.45:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.35.45:119][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.35.45:128][  0]LogCollectionManager: Loaded 0 collections in 0.002646 seconds
+[2020.07.09-08.35.45:140][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/Collections/' took 0.00s
+[2020.07.09-08.35.45:140][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/Developers/Livio/Collections/' took 0.00s
+[2020.07.09-08.35.45:140][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/Collections/' took 0.00s
+[2020.07.09-08.35.45:140][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2020.07.09-08.35.45:151][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2863 classes and 680 folders.
+[2020.07.09-08.35.45:160][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.09-08.35.45:210][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.09-08.35.45:217][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.07.09-08.35.45:291][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.09-08.35.45:295][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.09-08.35.45:301][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.09-08.35.45:375][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2020.07.09-08.35.45:585][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.09-08.35.45:585][  0]LogLoad: (Engine Initialization) Total time: 8.65 seconds
+[2020.07.09-08.35.45:585][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.09-08.35.45:615][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.09-08.35.52:886][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.09-08.36.05:540][951]LogAssetRegistry: Asset discovery search completed in 25.0667 seconds
+[2020.07.09-08.36.05:545][951]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2020.07.09-08.36.05:545][951]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2020.07.09-08.36.10:903][518]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.09-08.36.12:279][518]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.09-08.36.34:129][261]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.09-08.36.46:489][440]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.09-08.37.03:206][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.07.09-08.37.03:206][209]LogMetaData: Removing '/Game/BluePrints/GM_Gamemode.GM_Gamemode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BluePrints/BP_GameMode.PackageMetaData'
+[2020.07.09-08.37.03:207][209]LogMetaData: Removing '/Game/BluePrints/GM_Gamemode.SKEL_GM_Gamemode_C' ref from Metadata '/Game/BluePrints/BP_GameMode.PackageMetaData'
+[2020.07.09-08.37.03:207][209]LogMetaData: Removing '/Game/BluePrints/GM_Gamemode.GM_Gamemode_C' ref from Metadata '/Game/BluePrints/BP_GameMode.PackageMetaData'
+[2020.07.09-08.37.03:207][209]LogMetaData: Removing '/Game/BluePrints/GM_Gamemode.GM_Gamemode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrints/BP_GameMode.PackageMetaData'
+[2020.07.09-08.37.03:207][209]LogMetaData: Removing '/Game/BluePrints/GM_Gamemode.GM_Gamemode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrints/BP_GameMode.PackageMetaData'
+[2020.07.09-08.37.03:271][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/GM_Gamemode" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/GM_Gamemode.uasset" SILENT=true
+[2020.07.09-08.37.03:317][209]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/GM_Gamemode3BE0433A498D147F9F344CA5DEF3526B.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/GM_Gamemode.uasset'
+[2020.07.09-08.37.03:529][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.07.09-08.37.03:573][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.07.09-08.37.03:606][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.07.09-08.37.14:599][348]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.09-08.37.31:875][877]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.07.09-08.39.02:574][747]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.09-08.39.02:594][747]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.09-08.39.06:395][136]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_PlayerController.BP_PlayerController
+[2020.07.09-08.39.07:089][136]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.07.09-08.39.09:119][136]LogRenderer: Reallocating scene render targets to support 1628x980 Format 10 NumSamples 1 (Frame:1).
+[2020.07.09-08.39.11:030][270]LogSlate: Window 'BP_PlayerController' being destroyed
+[2020.07.09-08.39.12:102][387]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.39.26:637][867]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.09-08.39.38:950][170]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.09-08.39.45:207][691]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.07.09-08.39.54:477][481]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.09-08.40.02:739][481]LogSlate: Window 'Save Level As' being destroyed
+[2020.07.09-08.40.02:846][481]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.07.09-08.40.02:850][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-08.40.02:894][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.07.09-08.40.03:230][481]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/MainMap0B513126436972DBEA5898AB458D836B.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/MainMap.umap'
+[2020.07.09-08.40.03:263][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/MainMap_BuiltData.uasset" SILENT=true
+[2020.07.09-08.40.03:284][481]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/MainMap_BuiltData89B44D224A70BE5CF9FBFAAAE3CC4D00.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/MainMap_BuiltData.uasset'
+[2020.07.09-08.40.03:296][481]LogFileHelpers: Saving map 'MainMap' took 0.535
+[2020.07.09-08.40.38:667][585]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.09-08.40.38:686][585]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.09-08.41.24:648][282]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_PlayerController.BP_PlayerController
+[2020.07.09-08.41.25:020][282]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2020.07.09-08.41.27:980][531]LogSlate: Window 'CompilerResults' being destroyed
+[2020.07.09-08.41.27:999][531]LogSlate: Window 'CompilerResults' being destroyed
+[2020.07.09-08.41.29:282][642]LogSlate: Window 'BP_PlayerController' being destroyed
+[2020.07.09-08.41.29:309][642]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.41.29:371][642]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_PlayerController.BP_PlayerController
+[2020.07.09-08.41.29:826][642]LogSlate: Took 0.037830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.09-08.42.46:554][794]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={7A16D5C4-48B4-E7A9-6ACB-59B68E4F9A64}
+[2020.07.09-08.43.14:952][120]LogSlate: Took 0.032177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.09-08.44.28:930][803]LogEditorTransaction: Undo Move Node
+[2020.07.09-08.45.44:727][343]LogEditorTransaction: Undo Resize Node
+[2020.07.09-08.45.46:569][451]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F82E851F-4EB3-B51C-EB40-D2B7A3764064}
+[2020.07.09-08.46.50:667][895]BlueprintLog: New page: Compile BP_PlayerController
+[2020.07.09-08.46.50:933][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.07.09-08.46.53:459][ 61]LogSlate: Window 'BP_PlayerController' being destroyed
+[2020.07.09-08.47.01:412][886]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/MainMap_BuiltData.MainMap_BuiltData
+[2020.07.09-08.47.06:296][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.07.09-08.47.06:296][383]LogMetaData: Removing '/Game/Maps/MainMap.SKEL_MainMap_C' ref from Metadata '/Game/MainMap.PackageMetaData'
+[2020.07.09-08.47.06:296][383]LogMetaData: Removing '/Game/Maps/MainMap.MainMap_C' ref from Metadata '/Game/MainMap.PackageMetaData'
+[2020.07.09-08.47.06:296][383]LogMetaData: Removing '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMap.PackageMetaData'
+[2020.07.09-08.47.06:296][383]LogMetaData: Removing '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap.EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMap.PackageMetaData'
+[2020.07.09-08.47.06:343][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2020.07.09-08.47.06:363][383]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/MainMap_BuiltData9E4072A64AAC63C93FD3F3A6F1D93DEF.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/Maps/MainMap_BuiltData.uasset'
+[2020.07.09-08.47.06:371][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-08.47.06:416][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.07.09-08.47.06:660][383]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/MainMap6CD001D14A03DEAA14575BA34D948BAB.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/Maps/MainMap.umap'
+[2020.07.09-08.47.06:691][383]LogFileHelpers: Saving map 'MainMap' took 0.321
+[2020.07.09-08.47.07:065][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.07.09-08.47.07:102][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.07.09-08.47.07:150][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.07.09-08.47.07:188][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.07.09-08.47.20:633][734]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.09-08.47.33:866][ 90]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.09-08.47.42:954][ 10]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.09-08.48.01:167][909]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.09-08.48.14:471][289]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.09-08.51.54:967][747]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\PC livio\Desktop\CrossHair.png)
+[2020.07.09-08.51.54:980][747]LogTexture: Display: Building textures: CrossHair (AutoDXT, 32X32)
+[2020.07.09-08.52.14:009][647]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD/HUD_CrossHair.HUD_CrossHair
+[2020.07.09-08.54.22:968][485]LogSlate: Took 0.137717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.07.09-08.54.29:136][161]BlueprintLog: New page: Compile HUD_CrossHair
+[2020.07.09-08.54.29:500][161]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2020.07.09-08.54.29:876][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HUD_CrossHair" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/HUD/HUD_CrossHair.uasset" SILENT=true
+[2020.07.09-08.54.29:894][192]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/HUD_CrossHair0836B7484FA2BEACD55F8C942C62A299.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/HUD/HUD_CrossHair.uasset'
+[2020.07.09-08.54.30:965][299]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.54.30:984][299]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.55.51:982][500]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.09-08.57.21:541][786]BlueprintLog: New page: Compile BP_PlayerController
+[2020.07.09-08.57.21:905][786]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.07.09-08.57.22:255][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_PlayerController" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_PlayerController.uasset" SILENT=true
+[2020.07.09-08.57.22:320][817]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/BP_PlayerControllerF0968F6E4A7C3EC2074FA2920A2AD50E.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_PlayerController.uasset'
+[2020.07.09-08.57.26:520][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.57.26:521][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-08.57.26:521][280]PIE: New page: PIE session: MainMap (9 juil. 2020 12:57:26)
+[2020.07.09-08.57.26:522][280]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.09-08.57.26:523][280]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.57.26:527][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003338s)
+[2020.07.09-08.57.26:528][280]LogAIModule: Creating AISystem for world MainMap
+[2020.07.09-08.57.26:529][280]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2020.07.09-08.57.26:529][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.005335s)
+[2020.07.09-08.57.26:577][280]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.07.09-08.57.26:643][280]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.09-08.57.26:659][280]LogInit: FAudioDevice initialized.
+[2020.07.09-08.57.26:670][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.57.26:671][280]LogLoad: Game class is 'GM_Gamemode_C'
+[2020.07.09-08.57.26:673][280]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.07.09-10.57.26
+[2020.07.09-08.57.26:673][280]LogWorld: Bringing up level for play took: 0.001210
+[2020.07.09-08.57.26:673][280]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.07.09-08.57.26:689][280]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.07.09-08.57.26:695][280]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap 0,094
+[2020.07.09-08.57.26:695][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.57.28:687][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.57.28:687][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.57.28:687][422]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.57.28:702][422]LogSlate: Window 'JamesSvillage Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.09-08.57.28:720][422]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.57.28:728][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-08.57.28:728][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.57.28:845][422]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2020.07.09-08.57.28:866][423]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.07.09-08.57.34:522][972]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_Player.BP_Player
+[2020.07.09-08.57.44:388][ 20]BlueprintLog: New page: Compile BP_Player
+[2020.07.09-08.57.44:826][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.07.09-08.57.45:180][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Player" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_Player.uasset" SILENT=true
+[2020.07.09-08.57.45:199][ 56]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/BP_Player0AA76C4A49B006E31939A09BAF71EF5D.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_Player.uasset'
+[2020.07.09-08.58.05:376][414]BlueprintLog: New page: Compile BP_Player
+[2020.07.09-08.58.05:721][414]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.07.09-08.58.05:935][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Player" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_Player.uasset" SILENT=true
+[2020.07.09-08.58.05:961][433]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/BP_Player56B5FE974BE955D8BDEF7D94647C8BE2.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_Player.uasset'
+[2020.07.09-08.58.07:142][560]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.09-08.58.07:165][560]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.58.07:165][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-08.58.07:165][560]PIE: New page: PIE session: MainMap (9 juil. 2020 12:58:07)
+[2020.07.09-08.58.07:166][560]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.58.07:169][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003018s)
+[2020.07.09-08.58.07:170][560]LogAIModule: Creating AISystem for world MainMap
+[2020.07.09-08.58.07:170][560]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2020.07.09-08.58.07:170][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.004644s)
+[2020.07.09-08.58.07:214][560]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.07.09-08.58.07:280][560]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.09-08.58.07:295][560]LogInit: FAudioDevice initialized.
+[2020.07.09-08.58.07:309][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.58.07:309][560]LogLoad: Game class is 'GM_Gamemode_C'
+[2020.07.09-08.58.07:311][560]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.07.09-10.58.07
+[2020.07.09-08.58.07:311][560]LogWorld: Bringing up level for play took: 0.000726
+[2020.07.09-08.58.07:311][560]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.07.09-08.58.07:317][560]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap 0,717
+[2020.07.09-08.58.07:318][560]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.58.09:347][753]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.58.09:347][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.58.09:347][753]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.58.09:362][753]LogSlate: Window 'JamesSvillage Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.09-08.58.09:374][753]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.58.09:384][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-08.58.09:384][753]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.58.09:440][753]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.07.09-08.58.09:461][754]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.07.09-08.58.20:399][959]BlueprintLog: New page: Compile BP_Player
+[2020.07.09-08.58.20:739][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.07.09-08.58.21:294][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Player" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_Player.uasset" SILENT=true
+[2020.07.09-08.58.21:311][ 19]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/BP_PlayerF93097344FACD3AD33E58A919989B4A1.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_Player.uasset'
+[2020.07.09-08.58.22:428][142]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.09-08.58.22:450][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.58.22:451][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-08.58.22:451][142]PIE: New page: PIE session: MainMap (9 juil. 2020 12:58:22)
+[2020.07.09-08.58.22:451][142]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.58.22:454][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002659s)
+[2020.07.09-08.58.22:455][142]LogAIModule: Creating AISystem for world MainMap
+[2020.07.09-08.58.22:455][142]LogPlayLevel: PIE: World Init took: (0.001445s)
+[2020.07.09-08.58.22:455][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.004334s)
+[2020.07.09-08.58.22:501][142]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.07.09-08.58.22:566][142]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.09-08.58.22:582][142]LogInit: FAudioDevice initialized.
+[2020.07.09-08.58.22:591][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.58.22:591][142]LogLoad: Game class is 'GM_Gamemode_C'
+[2020.07.09-08.58.22:593][142]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.07.09-10.58.22
+[2020.07.09-08.58.22:593][142]LogWorld: Bringing up level for play took: 0.000933
+[2020.07.09-08.58.22:593][142]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.07.09-08.58.22:600][142]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap -0,001
+[2020.07.09-08.58.22:600][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.58.37:836][620]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.58.37:837][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.58.37:837][620]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.58.37:852][620]LogSlate: Window 'JamesSvillage Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.09-08.58.37:861][620]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.58.37:873][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-08.58.37:873][620]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.58.37:934][620]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.07.09-08.58.37:956][621]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.07.09-08.58.55:453][655]BlueprintLog: New page: Compile BP_Player
+[2020.07.09-08.58.55:792][655]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.07.09-08.58.56:264][709]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.09-08.58.56:288][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.58.56:288][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-08.58.56:288][709]PIE: New page: PIE session: MainMap (9 juil. 2020 12:58:56)
+[2020.07.09-08.58.56:289][709]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.58.56:291][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002737s)
+[2020.07.09-08.58.56:292][709]LogAIModule: Creating AISystem for world MainMap
+[2020.07.09-08.58.56:293][709]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2020.07.09-08.58.56:293][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.004235s)
+[2020.07.09-08.58.56:338][709]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.07.09-08.58.56:402][709]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.09-08.58.56:416][709]LogInit: FAudioDevice initialized.
+[2020.07.09-08.58.56:426][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.58.56:426][709]LogLoad: Game class is 'GM_Gamemode_C'
+[2020.07.09-08.58.56:427][709]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.07.09-10.58.56
+[2020.07.09-08.58.56:428][709]LogWorld: Bringing up level for play took: 0.000914
+[2020.07.09-08.58.56:428][709]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.07.09-08.58.56:432][709]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap -0,168
+[2020.07.09-08.58.56:433][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.02:205][391]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.02:205][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.59.02:206][391]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.59.02:221][391]LogSlate: Window 'JamesSvillage Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.09-08.59.02:229][391]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.59.02:237][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-08.59.02:237][391]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.02:295][391]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.07.09-08.59.02:307][392]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.07.09-08.59.11:243][432]BlueprintLog: New page: Compile BP_Player
+[2020.07.09-08.59.11:584][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.07.09-08.59.11:977][476]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.09-08.59.12:000][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.12:000][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-08.59.12:000][476]PIE: New page: PIE session: MainMap (9 juil. 2020 12:59:12)
+[2020.07.09-08.59.12:000][476]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.59.12:004][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003156s)
+[2020.07.09-08.59.12:005][476]LogAIModule: Creating AISystem for world MainMap
+[2020.07.09-08.59.12:005][476]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2020.07.09-08.59.12:005][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.004871s)
+[2020.07.09-08.59.12:050][476]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.07.09-08.59.12:116][476]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.09-08.59.12:131][476]LogInit: FAudioDevice initialized.
+[2020.07.09-08.59.12:141][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.59.12:141][476]LogLoad: Game class is 'GM_Gamemode_C'
+[2020.07.09-08.59.12:143][476]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.07.09-10.59.12
+[2020.07.09-08.59.12:143][476]LogWorld: Bringing up level for play took: 0.000906
+[2020.07.09-08.59.12:143][476]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.07.09-08.59.12:148][476]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap -0,452
+[2020.07.09-08.59.12:148][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.15:752][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.15:752][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.59.15:752][897]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.59.15:767][897]LogSlate: Window 'JamesSvillage Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.09-08.59.15:779][897]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.59.15:786][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-08.59.15:787][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.15:847][897]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.07.09-08.59.15:858][898]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.07.09-08.59.17:712][102]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.09-08.59.17:735][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.17:735][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-08.59.17:736][102]PIE: New page: PIE session: MainMap (9 juil. 2020 12:59:17)
+[2020.07.09-08.59.17:736][102]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.59.17:739][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003010s)
+[2020.07.09-08.59.17:740][102]LogAIModule: Creating AISystem for world MainMap
+[2020.07.09-08.59.17:740][102]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2020.07.09-08.59.17:740][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.004726s)
+[2020.07.09-08.59.17:785][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.07.09-08.59.17:850][102]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.09-08.59.17:861][102]LogInit: FAudioDevice initialized.
+[2020.07.09-08.59.17:871][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.59.17:871][102]LogLoad: Game class is 'GM_Gamemode_C'
+[2020.07.09-08.59.17:872][102]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.07.09-10.59.17
+[2020.07.09-08.59.17:873][102]LogWorld: Bringing up level for play took: 0.000922
+[2020.07.09-08.59.17:873][102]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.07.09-08.59.17:878][102]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap -0,722
+[2020.07.09-08.59.17:879][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.19:041][232]LogSlate: Window 'JamesSvillage Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.09-08.59.19:049][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.19:049][232]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.59.19:050][232]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.59.19:060][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-08.59.19:061][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.19:122][232]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.07.09-08.59.19:149][233]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.07.09-08.59.31:359][687]BlueprintLog: New page: Compile BP_Player
+[2020.07.09-08.59.31:707][687]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.07.09-08.59.32:179][740]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.09-08.59.32:202][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.32:202][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.09-08.59.32:202][740]PIE: New page: PIE session: MainMap (9 juil. 2020 12:59:32)
+[2020.07.09-08.59.32:202][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.59.32:205][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003082s)
+[2020.07.09-08.59.32:206][740]LogAIModule: Creating AISystem for world MainMap
+[2020.07.09-08.59.32:207][740]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2020.07.09-08.59.32:207][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.004682s)
+[2020.07.09-08.59.32:247][740]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.07.09-08.59.32:312][740]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.09-08.59.32:329][740]LogInit: FAudioDevice initialized.
+[2020.07.09-08.59.32:338][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.59.32:339][740]LogLoad: Game class is 'GM_Gamemode_C'
+[2020.07.09-08.59.32:340][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.07.09-10.59.32
+[2020.07.09-08.59.32:340][740]LogWorld: Bringing up level for play took: 0.000717
+[2020.07.09-08.59.32:340][740]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.07.09-08.59.32:345][740]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap -0,256
+[2020.07.09-08.59.32:345][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.34:346][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.34:347][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-08.59.34:347][970]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2020.07.09-08.59.34:362][970]LogSlate: Window 'JamesSvillage Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.09-08.59.34:376][970]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.59.34:385][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-08.59.34:385][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.09-08.59.34:444][970]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.07.09-08.59.34:454][971]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.07.09-08.59.35:860][136]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.59.37:172][279]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.09-08.59.37:172][279]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-08.59.42:501][851]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.07.09-08.59.43:794][851]LogSlate: Window 'Save Content' being destroyed
+[2020.07.09-08.59.43:850][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Player" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_Player.uasset" SILENT=true
+[2020.07.09-08.59.43:869][851]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/BP_Player66D49EA948111543E1BE9E8E8805A3EE.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_Player.uasset'
+[2020.07.09-08.59.43:876][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/GM_Gamemode" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/GM_Gamemode.uasset" SILENT=true
+[2020.07.09-08.59.43:900][851]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/GM_Gamemode6F9A81F54D511FE016D9859CBE02CAFC.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/GM_Gamemode.uasset'
+[2020.07.09-08.59.43:920][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Resources/CrossHair" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/HUD/Resources/CrossHair.uasset" SILENT=true
+[2020.07.09-08.59.43:931][851]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/CrossHairA19D790A49C5BF7FFF4F04BB553E763B.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/HUD/Resources/CrossHair.uasset'
