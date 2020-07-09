@@ -7,4 +7,5 @@ But {Vous êtes un enfant de 12ans, à lâge de 7ans, ses parents sont morts dan
      pour qu'il puisse réparer sa voiture délabrée etc... (missions à suivre...à chaque fin de mission James récupère un objet ou de l'argent), une fois toutes les missions terminées demandées par les villageois et après avoir rélisé de bonnes actions, 
      James devient connus de tout le monde dans le village...}
 
-Fin de l'histoire {}
+Fin de l'histoire {L'oncle disparaît, celui qui as abusé de nous nous demande d'aller chercher un petit couteau, quand on revient il disparait aussi, une dame nous trouve et nous demande ou on habite, on lui dit que l'on habite juste dans le coin et elle
+devient notre mère adoptive}
