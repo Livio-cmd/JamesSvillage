@@ -701,3 +701,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-15.27.15:733][ 97]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/MainMap3B0FFA81459F0E79E7E85D83215EC8F5.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/Maps/MainMap.umap'
 [2020.07.10-15.27.15:778][ 97]LogFileHelpers: Saving map 'MainMap' took 0.330
 [2020.07.10-15.27.21:914][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.07.10-15.27.51:371][820]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.10-15.27.51:396][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.10-15.27.51:396][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-15.27.51:396][820]PIE: New page: PIE session: MainMap (10 juil. 2020 19:27:51)
+[2020.07.10-15.27.51:396][820]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2020.07.10-15.27.51:399][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003016s)
+[2020.07.10-15.27.51:400][820]LogAIModule: Creating AISystem for world MainMap
+[2020.07.10-15.27.51:400][820]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2020.07.10-15.27.51:400][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.004596s)
+[2020.07.10-15.27.51:434][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.07.10-15.27.51:502][820]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.10-15.27.51:518][820]LogInit: FAudioDevice initialized.
+[2020.07.10-15.27.51:527][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-15.27.51:527][820]LogLoad: Game class is 'GM_Gamemode_C'
+[2020.07.10-15.27.51:529][820]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.07.10-17.27.51
+[2020.07.10-15.27.51:529][820]LogWorld: Bringing up level for play took: 0.000885
+[2020.07.10-15.27.51:529][820]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.07.10-15.27.51:536][820]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap 1,043
+[2020.07.10-15.27.51:536][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.10-15.27.53:596][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.10-15.27.53:596][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-15.27.53:596][ 27]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2020.07.10-15.27.53:616][ 27]LogSlate: Window 'JamesSvillage Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.10-15.27.53:629][ 27]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-15.27.53:637][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-15.27.53:637][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.07.10-15.27.53:683][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.07.10-15.27.53:701][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.07.10-15.29.20:787][630]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_Player.BP_Player
+[2020.07.10-15.32.53:542][567]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={335F2618-48B1-F5B1-3967-D3AEB534224F}
+[2020.07.10-15.32.53:542][567]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={2DDABA03-443E-E743-D553-C68B84528643}
+[2020.07.10-15.34.53:861][ 68]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={943C6603-4992-BAB4-A0AC-9A80862DE8B2}
+[2020.07.10-15.35.12:922][607]BlueprintLog: New page: Compile BP_Player
+[2020.07.10-15.35.13:192][607]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.07.10-15.35.50:264][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.07.10-15.35.51:358][846]LogSlate: Window 'Save Content' being destroyed
+[2020.07.10-15.35.51:429][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Player" FILE="C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_Player.uasset" SILENT=true
+[2020.07.10-15.35.51:476][846]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Saved/BP_Player091EC8574E9ABF8989B754BEC71FCB43.tmp' to 'C:/Users/PC livio/Documents/GitHub/JamesSvillage/JamesSvillage/Content/BluePrints/BP_Player.uasset'
