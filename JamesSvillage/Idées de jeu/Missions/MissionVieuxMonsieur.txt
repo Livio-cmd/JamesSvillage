@@ -1,0 +1,8 @@
+Hey ! toi la bas ! je vien de me faire volé mais pneus de ma voiture, ca te dirais de m'en trouvé 4 car il y en as beaucoups qui trainent dans la ville ?
+
+ACCEPTER {mission}
+
+REFUSER {Ne donne pas l'objet (Diamand)}
+
+Achat au Shop ave le diamand :
+- (A venir... )
