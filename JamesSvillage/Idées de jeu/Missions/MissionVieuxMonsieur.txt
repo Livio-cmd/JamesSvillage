@@ -1,5 +1,14 @@
 Hey ! toi la bas ! je vien de me faire volé mais pneus de ma voiture, ca te dirais de m'en trouvé 4 car il y en as beaucoups qui trainent dans la ville ?
 
+ si le joueur n'a pas les 4 roues :
+
+ Bah ? Et alors ? Elles sont ou mes 4 roues ?!
+
+ si le joueur à les 4 roues :
+
+ Woaw ! Tu est plutot rapide ! Merci et en echange je te donne ce diamand que m' a offert ma mere quand j'etait petit, fait en bonne usage ?
+ 
+
 ACCEPTER {mission}
 
 REFUSER {Ne donne pas l'objet (Diamand)}
